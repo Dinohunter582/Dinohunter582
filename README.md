@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dinohunter582
-- 👀 I’m interested in ... html, css, javascript, react
-- 🌱 I’m currently learning ... front end web development
+- 👀 I’m interested in ... html, css, javascript, react and SQL
+- 🌱 I’m currently learning ... front end web development and database scripting
 - 💞️ I’m looking to collaborate on ... web projects
 - 📫 How to reach me ... Markleungjr@gmail.com
 
